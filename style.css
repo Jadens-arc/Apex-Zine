@@ -104,6 +104,7 @@ header {
   .car-container {
     margin: 0 auto;
     width: 100%;
+    margin-bottom: 100px;
   }
 
   body {
