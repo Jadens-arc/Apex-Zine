@@ -1,0 +1,14 @@
+{
+  "name": "apex",
+  "version": "1.0.0",
+  "description": "Apex Zine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaden Tyler Braxton Nyan",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
